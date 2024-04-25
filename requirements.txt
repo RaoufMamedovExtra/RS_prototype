@@ -2,7 +2,7 @@ streamlit==1.17.0
 numpy==1.26.0
 pandas
 lightfm
-nmslib
+nmslib==2.1.1
 pickle
 scipy
 plotly
